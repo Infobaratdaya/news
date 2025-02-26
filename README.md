@@ -1,1 +1,2 @@
 # news
+# info barat daya
